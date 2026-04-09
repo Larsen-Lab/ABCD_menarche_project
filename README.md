@@ -26,6 +26,8 @@ Data from the latest release (v6.0) was used: https://dx.doi.rog/10.15154/z563-z
 
 ## Scripts to Plot Results (referred to as Tools)
 
+The following scripts need to be *sourced* in the analysis code in order to plot the results
+
 * `partial_residual_plot_new.R`
 * `GAM_posterior_stats.R`
 * `GAMM_plotting2_with_2nd_derv_new.R`
