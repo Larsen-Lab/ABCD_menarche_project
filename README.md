@@ -7,12 +7,12 @@ This repository contains the analysis code for "Menarche is an inflection point 
 The following datasets are required to run the analysis:
 
 * ABCD Data (Adolescent Brain Cognitive Development Study):
-** Data is available on the ABCD Data Repository through the NIH Brain Development Cohort (NBCD) Data Hub (https://abcdstudy.org).
+	* Data is available on the ABCD Data Repository through the NIH Brain Development Cohort (NBCD) Data Hub (https://abcdstudy.org).
 Data from the latest release (v6.0) was used: https://dx.doi.rog/10.15154/z563-zd24
 * ABCD ARMS
-** 
+	* The ABCD dataframe is split into to matched groups (group 1 and group 2). Find more information here: https://osf.io/7xn4f/overview
 * ABCD General exposome
-** 
+	* 
 
 ## System Requirements
 
