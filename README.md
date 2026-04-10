@@ -26,9 +26,9 @@ The following data is required to run the analysis:
 
 The following scripts need to be *sourced* in the analysis code in order to plot the results
 
-* `partial_residual_plot_new.R`
+* `partial_residual_plot.R`
 * `GAM_posterior_stats.R`
-* `GAMM_plotting2_with_2nd_derv_new.R`
+* `GAMM_plotting2_with_2nd_derv.R`
 * `GAMM_firstderv_table.R`
 
 ## Analysis Code
