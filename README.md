@@ -20,7 +20,7 @@ The following data is required to run the analysis:
 
 * **R Version:** 4.4.0 (or later)
 * **R Studio Version:** 2024-04-24 (or later)
-* **Dependencies:** `tidyverse` `mgcv` `gratia` `lme4` `parallel` `ggplot2` `ggpattern`
+* **Main Dependencies:** `tidyverse` `mgcv` `gratia` `lme4` `parallel` `ggplot2` `ggpattern`
 
 ## Scripts to Plot Results (referred to as Tools)
 
