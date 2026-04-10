@@ -15,8 +15,8 @@ Data from the latest release (v6.0) was used: https://dx.doi.rog/10.15154/z563-z
 	* Socioeconomic status (SES) was accounted for in all analyses using the general exposome.
 	The general expsome represents the totality of co-occurring environmental exposures and experiences 
 	that an individual encounters throughout the lifespan, in contrast to examining single environmental features 
-	(e.g. household income) in isolation.
-	Find more information here: https://doi.org/10.1016/j.dcn.2024.101370
+	(e.g. household income) in isolation (find more information here: https://doi.org/10.1016/j.dcn.2024.101370)
+	The code to replicate the general exposome can be found here: https://github.com/PennLINC/exposome_PFNs_cognition/
 
 ## System Requirements
 
