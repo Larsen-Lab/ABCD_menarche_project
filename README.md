@@ -33,5 +33,6 @@ The following scripts need to be *sourced* in the analysis code in order to plot
 
 ## Analysis Code
 
-* `ABCD_6.0_brief_communication_2026-04-13.Rmd`
+* `ABCD_6.0_brief_communication_2026-04-13.Rmd` (code for original submission)
+* `ABCD_6.0_brief_communication_revision_2026-10-13.Rmd` (code for first revision)
 
